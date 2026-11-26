@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.inversetv.twa",
+        "sha256_cert_fingerprints": ["6B:F1:C5:06:82:DE:20:A7:37:C4:EE:AB:23:8E:A3:33:A1:B4:6B:27:D5:09:57:CE:40:0D:A1:93:61:13:A4:EE"]
+      }
+    }]
